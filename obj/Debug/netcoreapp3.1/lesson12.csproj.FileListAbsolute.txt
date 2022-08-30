@@ -1,0 +1,14 @@
+/Users/paul/Projects/lesson12/lesson12/bin/Debug/netcoreapp3.1/lesson12
+/Users/paul/Projects/lesson12/lesson12/bin/Debug/netcoreapp3.1/lesson12.deps.json
+/Users/paul/Projects/lesson12/lesson12/bin/Debug/netcoreapp3.1/lesson12.runtimeconfig.json
+/Users/paul/Projects/lesson12/lesson12/bin/Debug/netcoreapp3.1/lesson12.runtimeconfig.dev.json
+/Users/paul/Projects/lesson12/lesson12/bin/Debug/netcoreapp3.1/lesson12.dll
+/Users/paul/Projects/lesson12/lesson12/bin/Debug/netcoreapp3.1/lesson12.pdb
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.csproj.AssemblyReference.cache
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.AssemblyInfoInputs.cache
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.AssemblyInfo.cs
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.dll
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.pdb
+/Users/paul/Projects/lesson12/lesson12/obj/Debug/netcoreapp3.1/lesson12.genruntimeconfig.cache
